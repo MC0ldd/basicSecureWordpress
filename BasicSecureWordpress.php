@@ -30,7 +30,6 @@ add_filter( 'auto_update_theme', '__return_true' );
 
 
 //Ocultar la versión de WP de los scripts y estilos//
-
 function remove_wp_version_strings( $src ) {
 global $wp_version;
 parse_str(parse_url($src, PHP_URL_QUERY), $query);
