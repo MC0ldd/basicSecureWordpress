@@ -4,7 +4,7 @@
 # Instalación del plugin
 
 
-En el administrador de archivos de tu hosting, para este ejemplo usaré uno antiguo que tengo de IONOS, y busca el directorio “plugins”, usualmente está dentro del directorio “wp-content”:
+En el administrador de archivos de tu hosting, para este ejemplo usaré uno antiguo que tengo de IONOS, ahí busca el directorio “plugins”, usualmente está dentro del directorio “wp-content”:
 <p align="center">
   <img src="Imágenes_ejemplo/1.png">
 </p>
